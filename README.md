@@ -1,0 +1,1 @@
+<div align="center"><img src="0.svg" height="256" width="512"></div>
